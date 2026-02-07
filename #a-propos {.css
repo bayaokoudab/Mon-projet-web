@@ -1,0 +1,27 @@
+#a-propos {
+    padding: 80px 20px;
+    background-color: #121212; /* Noir très profond et élégant */
+    color: #8f3b3b; /* Texte en blanc pour être lisible */
+    clear: both;
+}
+
+.titre-propos {
+    text-align: center;
+    color: #d4af37; /* Ton doré pour le titre */
+    border-bottom: 2px solid #d4af37;
+    display: table;
+    margin: 0 auto 40px auto;
+    padding-bottom: 10px;
+    font-size: 2rem;
+}
+
+.texte-propos {
+    line-height: 1.8;
+    color: #2e2525; /* Gris clair pour un texte doux à lire */
+    font-size: 1.15rem;
+    text-align: justify;
+}
+
+.texte-propos strong {
+    color: #d4af37; /* Met ton nom en valeur en doré */
+}
